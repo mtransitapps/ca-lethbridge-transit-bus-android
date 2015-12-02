@@ -12,7 +12,7 @@ This app adds Lethbridge Transit buses information to MonTransit.
 
 This app provides the buses schedule.
 
-LTC buses serve Lethbridge in Alberta, Canada.
+Lethbridge Transit buses serve Lethbridge in Alberta, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
