@@ -1,9 +1,7 @@
-1201,0,'City Ctr',12
-1200,0,'U Of Lethbridge',12
+1200,0,'City Ctr',12
+1201,0,'University',12
 2300,0,'CCW',23
 2400,0,'CW',24
-3102,0,'Industrial',31
-3101,0,'North Terminal',31
 3202,0,'Indian Battle',32
 3201,0,'University',32
 3303,0,'Heritage',33
@@ -14,15 +12,13 @@
 3603,0,'University',36
 3704,0,'Garry Sta',37
 3703,0,'University',37
-14002000,0,'City Ctr',140020
-14002001,0,'North Terminal',140020
-14002104,0,'City Ctr',140021
-14002103,0,'Nord-Bridge',140021
-14002201,0,'City Ctr',140022
-14002200,0,'North Terminal',140022
-19002001,0,'City Ctr',190020
-19002000,0,'Lethbridge College',190020
+4000,0,'Fairmont',40
+4100,0,'Blackwolf',41
+14002003,0,'North Terminal',140020
+14002102,0,'City Ctr',140021
+14002101,0,'Westminster',140021
+14002203,0,'North Terminal',140022
+19002004,0,'College Terminal',190020
 19002102,0,'City Ctr',190021
 19002101,0,'Henderson Lk / Industrial',190021
-19002201,0,'City Ctr',190022
-19002200,0,'Lethbridge College',190022
+19002204,0,'College Terminal',190022
