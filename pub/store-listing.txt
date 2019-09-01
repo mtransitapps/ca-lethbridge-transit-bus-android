@@ -5,7 +5,7 @@ Lethbridge Transit Bus for MonTransit.
 Schedule…
 ----------
 What's new in this version?:
-Schedule from June 19, 2019 to December 31, 2019.
+Schedule from August 28, 2019 to December 29, 2019.
 ----------
 Full description:
 This app adds Lethbridge Transit buses information to MonTransit.
