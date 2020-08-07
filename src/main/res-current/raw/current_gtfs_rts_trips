@@ -1,7 +1,5 @@
-1001,0,'City Ctr',10
-1002,0,'University',10
-1200,0,'City Ctr',12
-1201,0,'University',12
+1201,0,'City Ctr',12
+1200,0,'University',12
 2300,0,'CCW',23
 2400,0,'CW',24
 3202,0,'Indian Battle Pk',32
@@ -21,6 +19,6 @@
 14002101,0,'Westminster',140021
 14002203,0,'North Terminal',140022
 19002000,0,'College',190020
-19002100,0,'Henderson & Industrial',190021
-19002101,0,'Henderson Lk',190021
+19002101,0,'Henderson & Industrial',190021
+19002100,0,'Henderson Lk',190021
 19002204,0,'College Terminal',190022
