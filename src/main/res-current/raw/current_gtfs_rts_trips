@@ -1,24 +1,18 @@
 1200,0,'City Ctr',12
 1201,0,'University',12
-2300,0,'CCW',23
-2400,0,'CW',24
-3202,0,'Indian Battle Pk',32
-3201,0,'University',32
-3303,0,'Heritage',33
-3304,0,'University',33
-3502,0,'Crossings',35
-3501,0,'University',35
-3604,0,'Sunridge',36
-3603,0,'University',36
-3704,0,'Garry Sta',37
-3703,0,'University',37
-4000,0,'Fairmont',40
-4100,0,'Blackwolf',41
-14002003,0,'North Terminal',140020
-14002102,0,'City Ctr',140021
-14002101,0,'Westminster',140021
-14002203,0,'North Terminal',140022
+2300,0,'City Ctr Term',23
+2400,0,'City Ctr Term',24
+3200,0,'University Term',32
+3300,0,'University Term',33
+3500,0,'University Term',35
+3600,0,'University Term',36
+3700,0,'University Term',37
+4000,0,'College Term',40
+4100,0,'N Term',41
+140020019,0,'N Term',140020
+14002100,0,'City Ctr Term',140021
+140022019,0,'N Term',140022
 19002000,0,'College',190020
 19002100,0,'Henderson & Ind',190021
 19002101,0,'Henderson Lk',190021
-19002204,0,'College Terminal',190022
+190022019,0,'College',190022
