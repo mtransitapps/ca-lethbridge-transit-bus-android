@@ -1,16 +1,16 @@
 1200,0,'City Ctr',12
 1201,0,'University',12
-2300,0,'City Ctr Term',23
-2400,0,'City Ctr Term',24
-3200,0,'University Term',32
-3300,0,'University Term',33
-3500,0,'University Term',35
-3600,0,'University Term',36
-3700,0,'University Term',37
-4000,0,'College Term',40
-4100,0,'N Term',41
+2300,0,'CCW',23
+2400,0,'CW',24
+3200,0,'Indian Battle Pk',32
+3300,0,'Heritage',33
+3500,0,'Copperwood',35
+3600,0,'Sunridge',36
+3700,0,'Garry Sta',37
+4000,0,'Fairmont',40
+4100,0,'Blackwolf',41
 140020019,0,'N Term',140020
-14002100,0,'City Ctr Term',140021
+14002100,0,'Westminster',140021
 140022019,0,'N Term',140022
 19002000,0,'College',190020
 19002100,0,'Henderson & Ind',190021
