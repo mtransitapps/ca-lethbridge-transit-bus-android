@@ -2,8 +2,8 @@
 100,0,'W Highlands Stn',1
 200,0,'Southgate Stn',2
 201,0,'Sunridge Stn',2
-301,0,'Sherring Stn',3
-300,0,'Southgate Stn',3
+300,0,'Sherring Stn',3
+301,0,'Southgate Stn',3
 400,0,'2 Ave & 28 St S',4
 401,0,'ATB Ctr',4
 5100,0,'University Stn',51
@@ -12,17 +12,17 @@
 5201,0,'University Stn',52
 5300,0,'ATB Ctr',53
 5301,0,'University Stn',53
-6200,0,'City Ctr',62
-6201,0,'College',62
+6201,0,'City Ctr',62
+6200,0,'College',62
 7000,0,'Helen Schuler Nature Ctr',70
 7001,0,'Nikka Yuko Japanese Gdn',70
 1006000,0,'City Ctr',10060
 1006001,0,'Sherring Stn',10060
-1006101,0,'City Ctr',10061
-1006100,0,'Sherring Stn',10061
-2006001,0,'City Ctr',20060
-2006000,0,'Sherring Stn',20060
-2006100,0,'City Ctr',20061
-2006101,0,'Sherring Stn',20061
-3006000,0,'City Ctr',30060
-3006001,0,'N Term',30060
+1006100,0,'City Ctr',10061
+1006101,0,'Sherring Stn',10061
+2006000,0,'City Ctr',20060
+2006001,0,'Sherring Stn',20060
+2006101,0,'City Ctr',20061
+2006100,0,'Sherring Stn',20061
+3006001,0,'City Ctr',30060
+3006000,0,'N Stn',30060
