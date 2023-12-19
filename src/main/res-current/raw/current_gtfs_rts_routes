@@ -1,13 +1,13 @@
-1,'1','CityLINK Gold','FFC56D'
-2,'2','CityLINK Blue','00A5B5'
-3,'3','CityLINK Green','348F41'
-4,'4','CityLINK Orange','FF4713'
-51,'51','Red Crow Blvd','93999C'
-52,'52','Columbia Blvd','93999C'
-53,'53','McGill Blvd','93999C'
-62,'62','13 Street South','000000'
-10060,'60A','Stafford Dr','000000'
-10061,'61A','5 Avenue North','000000'
-20060,'60B','Stafford Dr','000000'
-20061,'61B','5 Avenue North','000000'
-30060,'60C','Stafford Dr','000000'
+1,'1','CityLINK Gold','FFC56D',-1743575919,3
+2,'2','CityLINK Blue','00A5B5',-345465083,3
+3,'3','CityLINK Green','348F41',649219387,3
+4,'4','CityLINK Orange','FF4713',682455943,3
+51,'51','Red Crow Blvd','93999C',-14142458,3
+52,'52','Columbia Blvd','93999C',400384631,3
+53,'53','McGill Blvd','93999C',627700259,3
+62,'62','13 Street South','000000',-1738738775,3
+10060,'60A','Stafford Dr','000000',-1242292994,3
+10061,'61A','5 Avenue North','000000',-1696500023,3
+20060,'60B','Stafford Dr','000000',1975634210,3
+20061,'61B','5 Avenue North','000000',-735799765,3
+30060,'60C','Stafford Dr','000000',-1815130024,3
